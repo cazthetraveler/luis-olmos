@@ -1,8 +1,13 @@
-# React + Vite
+# Luis Olmos Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+This is my portfolio site that I built for myself. This showcases the work I've done as a graphic designer, web developer and photographer.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Usage
+
+Since this site is strictly front-end only, there's no way to do anything with a database.
+
+A home page with an about me and skills section is there for any future employers to view. Then in the navigation bar, links to the graphic design, photography and web development projects are available. The graphic design and web sections are within the site, however the photography link will take you to another site that I built for myself, specifically showcasing my works as a photographer. A contact page is also available, in case anyone wants to see my social media or send me an email in regards to work requests.
+
+This website is also responsive.
