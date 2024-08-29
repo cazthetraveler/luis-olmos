@@ -1,0 +1,42 @@
+.web-development .header {
+    text-align: center;
+}
+
+.web-development .header h1 {
+    font-size: 2rem;
+}
+
+.web-development .header p {
+    margin-top: 0.5rem;
+    font-size: 1.1rem;
+}
+
+.port-web {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.port-web img {
+    width: 300px;
+    height: 300px;
+    transition: 0.3s;
+}
+
+.port-web img:hover {
+    transform: scale(103%);
+    transition: 0.3s;
+}
+
+@media (min-width: 1200px) {
+    .port-web {
+        justify-content: flex-start;
+        width: calc(275px * 3 + 2rem);
+    }
+
+    .port-web img {
+        width: 275px;
+        height: 275px;
+    }
+}

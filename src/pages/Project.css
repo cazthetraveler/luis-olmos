@@ -1,0 +1,55 @@
+.project .header {
+    text-align: center;
+}
+
+.project .header h1 {
+    font-size: 2rem;
+}
+
+.project .header p {
+    margin-top: 0.75rem;
+    font-size: 1.1rem;
+}
+
+.project-images {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.project-images .landscape {
+    width: 100%;
+    height: auto;
+}
+
+.project-images .portrait {
+    width: 100%;
+    height: auto;
+}
+
+.project-images .square {
+    width: 320px;
+    height: auto;
+}
+
+@media (min-width: 1200px) {
+    .project-images {
+        width: calc(275px * 3 + 2rem);
+    }
+
+    .project-images .landscape {
+        width: auto;
+        height: 500px;
+    }
+
+    .project-images .portrait {
+        width: 500px;
+        height: auto;
+    }
+
+    .project-images .square {
+        width: 500px;
+        height: auto;
+    }
+}
