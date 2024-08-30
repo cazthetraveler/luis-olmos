@@ -168,7 +168,7 @@ const projects = [
       },
     ],
   },
-    {
+  {
     id: 7,
     category: "graphic-design",
     title: "Ventura Summer Catalog 2024",
@@ -259,6 +259,180 @@ const projects = [
         src: "/images/gd/ventura-summer/back.jpg",
         alt: "back page",
         class: "portrait",
+      },
+    ],
+  },
+  {
+    id: 8,
+    category: "graphic-design",
+    title: "Coastal Interiors UI Design",
+    description:
+      "A UI Design project for an interior company. This project features my skills in lofi and hifi wireframing.",
+    thumb: {
+      src: "/images/gd/coastal-ui/coastal-ui-thumb.png",
+      alt: "coastal interiors ui design project",
+    },
+    link: "",
+    image: [
+      {
+        src: "/images/gd/coastal-ui/lofi/lofi-01.png",
+        alt: "lofi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/lofi/lofi-02.png",
+        alt: "lofi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/lofi/lofi-03.png",
+        alt: "lofi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/lofi/lofi-04.png",
+        alt: "lofi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/lofi/lofi-05.png",
+        alt: "lofi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/lofi/lofi-06.png",
+        alt: "lofi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/lofi/lofi-07.png",
+        alt: "lofi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/lofi/lofi-08.png",
+        alt: "lofi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/lofi/lofi-09.png",
+        alt: "lofi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/lofi/lofi-10.png",
+        alt: "lofi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/lofi/lofi-11.png",
+        alt: "lofi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/lofi/lofi-12.png",
+        alt: "lofi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/lofi/lofi-13.png",
+        alt: "lofi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/lofi/lofi-14.png",
+        alt: "lofi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/lofi/lofi-15.png",
+        alt: "lofi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/lofi/lofi-16.png",
+        alt: "lofi wireframe",
+        class: "landscape",
+      },
+            {
+        src: "/images/gd/coastal-ui/hifi/hifi-01.png",
+        alt: "hifi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/hifi/hifi-02.png",
+        alt: "hifi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/hifi/hifi-03.png",
+        alt: "hifi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/hifi/hifi-04.png",
+        alt: "hifi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/hifi/hifi-05.png",
+        alt: "hifi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/hifi/hifi-06.png",
+        alt: "hifi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/hifi/hifi-07.png",
+        alt: "hifi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/hifi/hifi-08.png",
+        alt: "hifi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/hifi/hifi-09.png",
+        alt: "hifi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/hifi/hifi-10.png",
+        alt: "hifi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/hifi/hifi-11.png",
+        alt: "hifi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/hifi/hifi-12.png",
+        alt: "hifi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/hifi/hifi-13.png",
+        alt: "hifi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/hifi/hifi-14.png",
+        alt: "hifi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/hifi/hifi-15.png",
+        alt: "hifi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/hifi/hifi-16.png",
+        alt: "hifi wireframe",
+        class: "landscape",
       },
     ],
   },
