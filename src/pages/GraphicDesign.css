@@ -32,7 +32,7 @@
 @media (min-width: 1200px) {
   .port-graphic {
     justify-content: flex-start;
-    /* width: calc(275px * 3 + 2rem); */
+    width: calc(275px * 3 + 2rem);
   }
 
   .port-graphic img {
