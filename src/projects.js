@@ -175,7 +175,7 @@ const projects = [
     description:
       "The summer 2024 catalog for Venturaline. Made using Adobe InDesign. This was printed for our shows and also uploaded to their website for online viewing.",
     thumb: {
-      src: "/images/gd/ventura-summer/ventura-summer-catalog-thumb.png",
+      src: "/images/gd/ventura-summer/ventura-summer-catalog-2024-thumb.png",
       alt: "Ventura Summer Catalog 2024.",
     },
     link: "",
