@@ -100,7 +100,7 @@ const projects = [
     link: "https://github.com/cazthetraveler/Bloom-and-Petal-Floristry",
   },
   {
-    id: 1,
+    id: 6,
     category: "graphic-design",
     title: "Luis Olmos Photography Logo Design",
     description:
