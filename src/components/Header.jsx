@@ -9,7 +9,8 @@ export default function Header() {
     };
     const closeNav = () => {
         setNavVisible(false);
-    }
+        window.scrollTo(0, 0);
+    };
 
     return(
         <header>
