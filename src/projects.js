@@ -168,6 +168,100 @@ const projects = [
       },
     ],
   },
+    {
+    id: 7,
+    category: "graphic-design",
+    title: "Ventura Summer Catalog 2024",
+    description:
+      "The summer 2024 catalog for Venturaline. Made using Adobe InDesign. This was printed for our shows and also uploaded to their website for online viewing.",
+    thumb: {
+      src: "/images/gd/ventura-summer/ventura-summer-catalog-thumb.png",
+      alt: "Ventura Summer Catalog 2024.",
+    },
+    link: "",
+    image: [
+      {
+        src: "/images/gd/ventura-summer/cover.jpg",
+        alt: "catalog cover page",
+        class: "portrait",
+      },
+      {
+        src: "/images/gd/ventura-summer/spread_01.jpg",
+        alt: "spread page",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/ventura-summer/spread_02.jpg",
+        alt: "spread page",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/ventura-summer/spread_02.jpg",
+        alt: "spread page",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/ventura-summer/spread_03.jpg",
+        alt: "spread page",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/ventura-summer/spread_04.jpg",
+        alt: "spread page",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/ventura-summer/spread_05.jpg",
+        alt: "spread page",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/ventura-summer/spread_06.jpg",
+        alt: "spread page",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/ventura-summer/spread_07.jpg",
+        alt: "spread page",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/ventura-summer/spread_08.jpg",
+        alt: "spread page",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/ventura-summer/spread_09.jpg",
+        alt: "spread page",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/ventura-summer/spread_10.jpg",
+        alt: "spread page",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/ventura-summer/spread_11.jpg",
+        alt: "spread page",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/ventura-summer/spread_12.jpg",
+        alt: "spread page",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/ventura-summer/spread_13.jpg",
+        alt: "spread page",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/ventura-summer/back.jpg",
+        alt: "back page",
+        class: "portrait",
+      },
+    ],
+  },
 ];
 
 export default projects;
