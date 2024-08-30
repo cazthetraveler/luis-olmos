@@ -1,42 +1,42 @@
 .graphic-design .header {
-    text-align: center;
+  text-align: center;
 }
 
 .graphic-design .header h1 {
-    font-size: 2rem;
+  font-size: 2rem;
 }
 
 .graphic-design .header p {
-    margin-top: 0.5rem;
-    font-size: 1.1rem;
+  margin-top: 0.5rem;
+  font-size: 1.1rem;
 }
 
 .port-graphic {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 1rem;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
 }
 
 .port-graphic img {
-    width: 300px;
-    height: 300px;
-    transition: 0.3s;
+  width: 300px;
+  height: 300px;
+  transition: 0.3s;
 }
 
 .port-graphic img:hover {
-    transform: scale(103%);
-    transition: 0.3s;
+  transform: scale(103%);
+  transition: 0.3s;
 }
 
 @media (min-width: 1200px) {
-    .port-graphic {
-        justify-content: flex-start;
-        width: calc(275px * 3 + 2rem);
-    }
+  .port-graphic {
+    justify-content: flex-start;
+    /* width: calc(275px * 3 + 2rem); */
+  }
 
-    .port-graphic img {
-        width: 275px;
-        height: 275px;
-    }
+  .port-graphic img {
+    width: 275px;
+    height: 275px;
+  }
 }
