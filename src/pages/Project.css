@@ -39,12 +39,32 @@
   }
 
   .project-images .landscape {
-    width: 500px;
+    width: 650px;
     height: auto;
   }
 
   .project-images .portrait {
     width: 500px;
+    height: auto;
+  }
+
+  .project-images .square {
+    width: 500px;
+    height: auto;
+  }
+}
+@media (min-width: 1400px) {
+  .project-images {
+    width: calc(275px * 3 + 2rem);
+  }
+
+  .project-images .landscape {
+    width: 750px;
+    height: auto;
+  }
+
+  .project-images .portrait {
+    width: 650px;
     height: auto;
   }
 
