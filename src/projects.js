@@ -168,6 +168,50 @@ const projects = [
       },
     ],
   },
+  {
+    id: 7,
+    category: "graphic-design",
+    title: "Ventura Email Blasts",
+    description:
+      "Email Blasts I've made during my time at Ventura Promotional Products.",
+    thumb: {
+      src: "/images/gd/ventura-email/ventura-email-thumb.png",
+      alt: "Ventura Email Blasts Collection.",
+    },
+    link: "",
+    image: [
+      {
+        src: "/images/gd/ventura-email/deckle-edge.png",
+        alt: "blast image",
+        class: "portrait",
+      },
+      {
+        src: "/images/gd/ventura-email/magnets-collage.jpg",
+        alt: "blast image",
+        class: "square",
+      },
+      {
+        src: "/images/gd/ventura-email/teacher-apple.jpg",
+        alt: "blast image",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/ventura-email/teacher-apple-alt.jpg",
+        alt: "blast image",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/ventura-email/tokens.jpg",
+        alt: "blast image",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/ventura-email/tokens-alt.jpg",
+        alt: "blast image",
+        class: "landscape",
+      },
+    ],
+  },
 ];
 
 export default projects;
