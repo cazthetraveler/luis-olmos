@@ -212,6 +212,274 @@ const projects = [
       },
     ],
   },
+  {
+    id: 7,
+    category: "graphic-design",
+    title: "Ventura Summer Catalog 2024",
+    description:
+      "The summer 2024 catalog for Venturaline. Made using Adobe InDesign. This was printed for our shows and also uploaded to their website for online viewing.",
+    thumb: {
+      src: "/images/gd/ventura-summer/ventura-summer-catalog-2024-thumb.png",
+      alt: "Ventura Summer Catalog 2024.",
+    },
+    link: "",
+    image: [
+      {
+        src: "/images/gd/ventura-summer/cover.jpg",
+        alt: "catalog cover page",
+        class: "portrait",
+      },
+      {
+        src: "/images/gd/ventura-summer/spread_01.jpg",
+        alt: "spread page",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/ventura-summer/spread_02.jpg",
+        alt: "spread page",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/ventura-summer/spread_02.jpg",
+        alt: "spread page",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/ventura-summer/spread_03.jpg",
+        alt: "spread page",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/ventura-summer/spread_04.jpg",
+        alt: "spread page",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/ventura-summer/spread_05.jpg",
+        alt: "spread page",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/ventura-summer/spread_06.jpg",
+        alt: "spread page",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/ventura-summer/spread_07.jpg",
+        alt: "spread page",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/ventura-summer/spread_08.jpg",
+        alt: "spread page",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/ventura-summer/spread_09.jpg",
+        alt: "spread page",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/ventura-summer/spread_10.jpg",
+        alt: "spread page",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/ventura-summer/spread_11.jpg",
+        alt: "spread page",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/ventura-summer/spread_12.jpg",
+        alt: "spread page",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/ventura-summer/spread_13.jpg",
+        alt: "spread page",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/ventura-summer/back.jpg",
+        alt: "back page",
+        class: "portrait",
+      },
+    ],
+  },
+  {
+    id: 8,
+    category: "graphic-design",
+    title: "Coastal Interiors UI Design",
+    description:
+      "A UI Design project for an interior company. This project features my skills in lofi and hifi wireframing.",
+    thumb: {
+      src: "/images/gd/coastal-ui/coastal-ui-thumb.png",
+      alt: "coastal interiors ui design project",
+    },
+    link: "",
+    image: [
+      {
+        src: "/images/gd/coastal-ui/lofi/lofi-01.png",
+        alt: "lofi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/lofi/lofi-02.png",
+        alt: "lofi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/lofi/lofi-03.png",
+        alt: "lofi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/lofi/lofi-04.png",
+        alt: "lofi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/lofi/lofi-05.png",
+        alt: "lofi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/lofi/lofi-06.png",
+        alt: "lofi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/lofi/lofi-07.png",
+        alt: "lofi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/lofi/lofi-08.png",
+        alt: "lofi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/lofi/lofi-09.png",
+        alt: "lofi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/lofi/lofi-10.png",
+        alt: "lofi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/lofi/lofi-11.png",
+        alt: "lofi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/lofi/lofi-12.png",
+        alt: "lofi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/lofi/lofi-13.png",
+        alt: "lofi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/lofi/lofi-14.png",
+        alt: "lofi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/lofi/lofi-15.png",
+        alt: "lofi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/lofi/lofi-16.png",
+        alt: "lofi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/hifi/hifi-01.png",
+        alt: "hifi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/hifi/hifi-02.png",
+        alt: "hifi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/hifi/hifi-03.png",
+        alt: "hifi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/hifi/hifi-04.png",
+        alt: "hifi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/hifi/hifi-05.png",
+        alt: "hifi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/hifi/hifi-06.png",
+        alt: "hifi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/hifi/hifi-07.png",
+        alt: "hifi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/hifi/hifi-08.png",
+        alt: "hifi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/hifi/hifi-09.png",
+        alt: "hifi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/hifi/hifi-10.png",
+        alt: "hifi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/hifi/hifi-11.png",
+        alt: "hifi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/hifi/hifi-12.png",
+        alt: "hifi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/hifi/hifi-13.png",
+        alt: "hifi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/hifi/hifi-14.png",
+        alt: "hifi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/hifi/hifi-15.png",
+        alt: "hifi wireframe",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/coastal-ui/hifi/hifi-16.png",
+        alt: "hifi wireframe",
+        class: "landscape",
+      },
+    ],
+  },
 ];
 
 export default projects;
