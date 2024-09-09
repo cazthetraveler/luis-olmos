@@ -213,7 +213,7 @@ const projects = [
     ],
   },
   {
-    id: 7,
+    id: 8,
     category: "graphic-design",
     title: "Ventura Summer Catalog 2024",
     description:
@@ -307,7 +307,7 @@ const projects = [
     ],
   },
   {
-    id: 8,
+    id: 9,
     category: "graphic-design",
     title: "Coastal Interiors UI Design",
     description:
