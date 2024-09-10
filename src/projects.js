@@ -480,6 +480,34 @@ const projects = [
       },
     ],
   },
+  {
+    id: 10,
+    category: "photography",
+    title: "Ariela Headshots",
+    description: "Headshot photos for Ariela, a real estate agent.",
+    thumb: {
+      src: "/images/gd/ventura-email/ventura-email-thumb.png",
+      alt: "ariela headshots",
+    },
+    link: "",
+    image: [
+      {
+        src: "/images/ph/ariela-headshots/ari_1.jpg",
+        alt: "ariela headshot",
+        class: "landscape",
+      },
+      {
+        src: "/images/ph/ariela-headshots/ari_2.jpg",
+        alt: "ariela headshot",
+        class: "portrait",
+      },
+      {
+        src: "/images/ph/ariela-headshots/ari_3.jpg",
+        alt: "ariela headshot",
+        class: "portrait",
+      },
+    ],
+  },
 ];
 
 export default projects;

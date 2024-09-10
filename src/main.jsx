@@ -8,6 +8,7 @@ import Error from "./pages/Error";
 
 import Home from "./pages/Home.jsx";
 import GraphicDesign from "./pages/GraphicDesign.jsx";
+import Photography from "./pages/Photography.jsx";
 import WebDev from "./pages/WebDev.jsx";
 import Project from "./pages/Project.jsx";
 import Contact from "./pages/Contact.jsx";
@@ -27,12 +28,16 @@ const router = createBrowserRouter([
         element: <GraphicDesign />,
       },
       {
+        path: "/photography",
+        element: <Photography />,
+      },
+      {
         path: "/web-development",
-        element: <WebDev />
+        element: <WebDev />,
       },
       {
         path: "/:category/:id",
-        element: <Project />
+        element: <Project />,
       },
       {
         path: "/contact",

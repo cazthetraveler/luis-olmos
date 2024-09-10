@@ -31,6 +31,7 @@ main {
 
 .home,
 .graphic-design,
+.photography,
 .web-development,
 .project {
   background-color: rgba(255, 255, 255, 0.85);
@@ -44,6 +45,7 @@ main {
 @media (min-width: 1200px) {
   .home,
   .graphic-design,
+  .photography,
   .web-development,
   .project {
     background-color: rgba(255, 255, 255, 0.85);

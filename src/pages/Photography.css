@@ -1,0 +1,42 @@
+.photography .header {
+  text-align: center;
+}
+
+.photography .header h1 {
+  font-size: 2rem;
+}
+
+.photography .header p {
+  margin-top: 0.5rem;
+  font-size: 1.1rem;
+}
+
+.port-photo {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.port-photo img {
+  width: 300px;
+  height: 300px;
+  transition: 0.3s;
+}
+
+.port-photo img:hover {
+  transform: scale(103%);
+  transition: 0.3s;
+}
+
+@media (min-width: 1200px) {
+  .port-photo {
+    justify-content: flex-start;
+    width: calc(275px * 3 + 2rem);
+  }
+
+  .port-photo img {
+    width: 275px;
+    height: 275px;
+  }
+}
