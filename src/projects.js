@@ -486,7 +486,7 @@ const projects = [
     title: "Ariela Headshots",
     description: "Headshot photos for Ariela, a real estate agent.",
     thumb: {
-      src: "/images/gd/ventura-email/ventura-email-thumb.png",
+      src: "/images/ph/ariela-headshots/ariela-thumb.jpg",
       alt: "ariela headshots",
     },
     link: "",
