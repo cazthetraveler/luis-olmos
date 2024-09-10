@@ -52,6 +52,7 @@ export default function Project() {
               width="640"
               height="480"
               allow="autoplay"
+              className="project-video"
             >
               fjaklfjdl
             </iframe>

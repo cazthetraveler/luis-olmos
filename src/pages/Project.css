@@ -33,6 +33,11 @@
   height: auto;
 }
 
+.project-video {
+  width: 320px;
+  height: 240px;
+}
+
 @media (min-width: 1200px) {
   .project-images {
     width: calc(275px * 3 + 2rem);
@@ -51,6 +56,11 @@
   .project-images .square {
     width: 500px;
     height: auto;
+  }
+
+  .project-video {
+    width: 640px;
+    height: 320px;
   }
 }
 @media (min-width: 1400px) {
@@ -71,5 +81,10 @@
   .project-images .square {
     width: 500px;
     height: auto;
+  }
+
+  .project-video {
+    width: 750px;
+    height: 562.2px;
   }
 }
