@@ -515,7 +515,7 @@ const projects = [
     description:
       "A mini documentary I made in college, showcasing my video skills. Everything is filmed and edited by me.",
     thumb: {
-      src: "/images/ph/ariela-headshots/ariela-thumb.jpg",
+      src: "/images/ph/new-reality-minidoc/mini-doc-thumb.jpg",
       alt: "mini doc thumbnail",
     },
     link: "",
