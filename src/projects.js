@@ -508,6 +508,20 @@ const projects = [
       },
     ],
   },
+  {
+    id: 11,
+    category: "photography",
+    title: "A New Life Mini Doc",
+    description:
+      "A mini documentary I made in college, showcasing my video skills. Everything is filmed and edited by me.",
+    thumb: {
+      src: "/images/ph/ariela-headshots/ariela-thumb.jpg",
+      alt: "mini doc thumbnail",
+    },
+    link: "",
+    video:
+      "https://drive.google.com/file/d/1dCrFkgpRCdww4XGjYTBxlcrQPl2tcscP/preview",
+  },
 ];
 
 export default projects;
