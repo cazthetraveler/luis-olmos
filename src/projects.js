@@ -522,6 +522,50 @@ const projects = [
     video:
       "https://drive.google.com/file/d/1dCrFkgpRCdww4XGjYTBxlcrQPl2tcscP/preview",
   },
+  {
+    id: 12,
+    category: "graphic-design",
+    title: "Ventura EQP Specials 2025",
+    description:
+      "The EQP specials flyer for Venturaline. Made using Adobe InDesign.",
+    thumb: {
+      src: "/images/gd/ventura-flyer-2025/ventura-flyer-2025-thumb.png",
+      alt: "Ventura EQP Specials.",
+    },
+    link: "",
+    image: [
+      {
+        src: "/images/gd/ventura-flyer-2025/cover.jpg",
+        alt: "catalog cover page",
+        class: "portrait",
+      },
+      {
+        src: "/images/gd/ventura-flyer-2025/spread_01.jpg",
+        alt: "spread page",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/ventura-flyer-2025/spread_02.jpg",
+        alt: "spread page",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/ventura-flyer-2025/spread_02.jpg",
+        alt: "spread page",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/ventura-flyer-2025/spread_03.jpg",
+        alt: "spread page",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/ventura-flyer-2025/back.jpg",
+        alt: "back page",
+        class: "portrait",
+      },
+    ],
+  },
 ];
 
 export default projects;
