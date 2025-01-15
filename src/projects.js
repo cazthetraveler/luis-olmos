@@ -535,32 +535,27 @@ const projects = [
     link: "",
     image: [
       {
-        src: "/images/gd/ventura-flyer-2025/cover.jpg",
+        src: "/images/gd/ventura-flyer-2025/cover.png",
         alt: "catalog cover page",
         class: "portrait",
       },
       {
-        src: "/images/gd/ventura-flyer-2025/spread_01.jpg",
+        src: "/images/gd/ventura-flyer-2025/spread_01.png",
         alt: "spread page",
         class: "landscape",
       },
       {
-        src: "/images/gd/ventura-flyer-2025/spread_02.jpg",
+        src: "/images/gd/ventura-flyer-2025/spread_02.png",
         alt: "spread page",
         class: "landscape",
       },
       {
-        src: "/images/gd/ventura-flyer-2025/spread_02.jpg",
+        src: "/images/gd/ventura-flyer-2025/spread_03.png",
         alt: "spread page",
         class: "landscape",
       },
       {
-        src: "/images/gd/ventura-flyer-2025/spread_03.jpg",
-        alt: "spread page",
-        class: "landscape",
-      },
-      {
-        src: "/images/gd/ventura-flyer-2025/back.jpg",
+        src: "/images/gd/ventura-flyer-2025/back.png",
         alt: "back page",
         class: "portrait",
       },
