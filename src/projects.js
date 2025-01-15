@@ -181,6 +181,11 @@ const projects = [
     link: "",
     image: [
       {
+        src: "/images/gd/ventura-email/new_years_alt.jpg",
+        alt: "blast image",
+        class: "portrait",
+      },
+      {
         src: "/images/gd/ventura-email/deckle-edge.png",
         alt: "blast image",
         class: "portrait",
@@ -209,7 +214,7 @@ const projects = [
         src: "/images/gd/ventura-email/tokens-alt.jpg",
         alt: "blast image",
         class: "landscape",
-      },
+      }
     ],
   },
   {
