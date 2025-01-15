@@ -6,7 +6,7 @@ import './GraphicDesign.css';
 
 export default function GraphicDesign() {
 
-    const filterProjects = projects.filter((project) => project.category === 'graphic-design');
+    const filterProjects = projects.filter((project) => project.category === 'graphic-design').reverse();
 
     return(
         <main className='graphic-design-page'>
