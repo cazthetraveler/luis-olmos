@@ -69,12 +69,12 @@
   }
 
   .project-images .landscape {
-    width: 750px;
+    max-width: 750px;
     height: auto;
   }
 
   .project-images .portrait {
-    width: 650px;
+    max-width: 650px;
     height: auto;
   }
 
