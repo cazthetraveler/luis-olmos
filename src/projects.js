@@ -561,6 +561,40 @@ const projects = [
       },
     ],
   },
+    {
+    id: 13,
+    category: "graphic-design",
+    title: "Ventura Website Slides",
+    description:
+      "These are some slider images that I made to be displayed on the front page of the venturaline website.",
+    thumb: {
+      src: "/images/gd/ventura-slides/slides-thumb.png",
+      alt: "Ventura Website Slides",
+    },
+    link: "",
+    image: [
+      {
+        src: "/images/gd/ventura-slides/award_ribbons.png",
+        alt: "award ribbons slide for ribbons and more",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/ventura-slides/campaign_2024.png",
+        alt: "campaign supplies specials slide",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/ventura-slides/thanksgiving_2024.png",
+        alt: "thanksgiving specials slide",
+        class: "landscape",
+      },
+      {
+        src: "/images/gd/ventura-slides/summer-2024-slide.png",
+        alt: "ventura summer catalog slide",
+        class: "landscape",
+      },
+    ],
+  },
 ];
 
 export default projects;
