@@ -561,12 +561,12 @@ const projects = [
       },
     ],
   },
-    {
+  {
     id: 13,
     category: "graphic-design",
     title: "Ventura Website Slides",
     description:
-      "These are some slider images that I made to be displayed on the front page of the venturaline website.",
+      "These are some slider images that I made to be displayed on the front page of the Venturaline website.",
     thumb: {
       src: "/images/gd/ventura-slides/slides-thumb.png",
       alt: "Ventura Website Slides",
