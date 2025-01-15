@@ -44,12 +44,12 @@
   }
 
   .project-images .landscape {
-    width: 650px;
+    max-width: 650px;
     height: auto;
   }
 
   .project-images .portrait {
-    width: 500px;
+    max-width: 500px;
     height: auto;
   }
 
