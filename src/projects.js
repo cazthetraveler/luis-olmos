@@ -181,6 +181,11 @@ const projects = [
     link: "",
     image: [
       {
+        src: "/images/gd/ventura-email/tote_bags_2025.jpg",
+        alt: "blast image for tote bags eqp",
+        class: "portrait",
+      },
+      {
         src: "/images/gd/ventura-email/new_years_alt.jpg",
         alt: "blast image",
         class: "portrait",
