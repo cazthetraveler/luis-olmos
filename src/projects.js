@@ -181,6 +181,11 @@ const projects = [
     link: "",
     image: [
       {
+        src: "/images/gd/ventura-email/notebooks_alt.jpg",
+        alt: "blast image for notebooks eqp",
+        class: "portrait",
+      },
+      {
         src: "/images/gd/ventura-email/tote_bags_2025.jpg",
         alt: "blast image for tote bags eqp",
         class: "portrait",
@@ -210,16 +215,6 @@ const projects = [
         alt: "blast image",
         class: "landscape",
       },
-      {
-        src: "/images/gd/ventura-email/tokens.jpg",
-        alt: "blast image",
-        class: "landscape",
-      },
-      {
-        src: "/images/gd/ventura-email/tokens-alt.jpg",
-        alt: "blast image",
-        class: "landscape",
-      }
     ],
   },
   {
