@@ -6,7 +6,7 @@ export default function Contact() {
         <main className='contact-page'>
             <section className='contact'>
                 <h1>Contact Me!</h1>
-                <h2>I am currently located at Del Rio, Texas</h2>
+                <h2>I am currently located at San Antonio, Texas</h2>
                 <div className='social-media'>
                     <Link to='https://www.unsplash.com/@lost_order' target='_blank'><i className='fa-brands fa-unsplash'></i></Link>
                     <Link to='https://www.instagram.com/olmos.luisd' target='_blank'><i className='fa-brands fa-instagram'></i></Link>
@@ -19,4 +19,5 @@ export default function Contact() {
             </section>
         </main>
     )
+
 }
