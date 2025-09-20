@@ -600,6 +600,64 @@ const projects = [
       },
     ],
   },
+  {
+    id: 14,
+    category: "photography",
+    title: "Old Mexico Product Photography",
+    description: "Product photography showcasing antique ceramics and other art mediums from Old Mexico.",
+    thumb: {
+      src: "/images/ph/old-mexico/old_mex_thumb.jpg",
+      alt: "old mexico product photography",
+    },
+    link: "",
+    image: [
+      {
+        src: "/images/ph/old-mexico/jug_main.jpg",
+        alt: "golf jug main",
+        class: "portrait",
+      },
+      {
+        src: "/images/ph/old-mexico/jug_2.jpg",
+        alt: "golf jug 2",
+        class: "portrait",
+      },
+      {
+        src: "/images/ph/old-mexico/jug_3.jpg",
+        alt: "golf jug 3",
+        class: "square",
+      },
+      {
+        src: "/images/ph/old-mexico/bottle_main.jpg",
+        alt: "bottle main",
+        class: "portrait",
+      },
+      {
+        src: "/images/ph/old-mexico/bottle_2.jpg",
+        alt: "bottle 2",
+        class: "square",
+      },
+      {
+        src: "/images/ph/old-mexico/bottle_3.jpg",
+        alt: "bottle 3",
+        class: "square",
+      },
+      {
+        src: "/images/ph/old-mexico/plate_main.jpg",
+        alt: "plate main",
+        class: "square",
+      },
+      {
+        src: "/images/ph/old-mexico/plate_2.jpg",
+        alt: "plate 2",
+        class: "square",
+      },
+      {
+        src: "/images/ph/old-mexico/plate_3.jpg",
+        alt: "plate 3",
+        class: "landscape",
+      },
+    ],
+  },
 ];
 
 export default projects;
