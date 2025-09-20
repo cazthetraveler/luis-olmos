@@ -6,8 +6,8 @@ export default function Home() {
       <section className="home">
         <img
           className="img-me"
-          src="/images/luis3.jpg"
-          alt="picture of me in my snoopy sweater."
+          src="/images/luis4.jpg"
+          alt="luis olmos."
         />
         <section className="about-me">
           <h1>Welcome!</h1>
