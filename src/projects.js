@@ -612,17 +612,17 @@ const projects = [
     link: "",
     image: [
       {
-        src: "/images/ph/old-mexico/jug_main.jpg",
+        src: "/images/ph/old-mexico/golf_main.jpg",
         alt: "golf jug main",
         class: "portrait",
       },
       {
-        src: "/images/ph/old-mexico/jug_2.jpg",
+        src: "/images/ph/old-mexico/golf_2.jpg",
         alt: "golf jug 2",
         class: "portrait",
       },
       {
-        src: "/images/ph/old-mexico/jug_3.jpg",
+        src: "/images/ph/old-mexico/golf_3.jpg",
         alt: "golf jug 3",
         class: "square",
       },
