@@ -8,7 +8,7 @@ export default function Contact() {
                 <h1>Contact Me!</h1>
                 <h2>I am currently located at San Antonio, Texas</h2>
                 <div className='social-media'>
-                    <Link to='https://www.unsplash.com/@lost_order' target='_blank'><i className='fa-brands fa-unsplash'></i></Link>
+                    <Link to='https://unsplash.com/@lolmos_01' target='_blank'><i className='fa-brands fa-unsplash'></i></Link>
                     <Link to='https://www.instagram.com/olmos.luisd' target='_blank'><i className='fa-brands fa-instagram'></i></Link>
                     <Link to='https://www.github.com/cazthetraveler' target='_blank'><i className='fa-brands fa-github'></i></Link>
                 </div>
