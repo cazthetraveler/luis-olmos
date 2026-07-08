@@ -604,7 +604,7 @@ const projects = [
     id: 14,
     category: "photography",
     title: "Old Mexico Product Photography",
-    description: "Product photography showcasing antique ceramics and other art mediums from Old Mexico.",
+    description: "Product photography showcasing antique ceramics and other art mediums from Old Mexico LLC.",
     thumb: {
       src: "/images/ph/old-mexico/old_mex_thumb.jpg",
       alt: "old mexico product photography",
