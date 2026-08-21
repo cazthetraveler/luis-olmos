@@ -29,8 +29,7 @@ export default function Home() {
             completion.
           </p>
           <p>
-            Currently, I am working as a graphic designer at Ventura Promotional
-            Products.
+            Currently, I am working as a product photographer in San Antonio, Texas.
           </p>
         </section>
         <section className="skills">
