@@ -773,6 +773,59 @@ const projects = [
       },
     ],
   },
+  {
+    id: 14,
+    category: "graphic-design",
+    title: "Wicked Legends YouTube Channel Logo Design",
+    description: "Logo design made for a friend's YouTube Channel back in 2024. Created using Adobe Illustrator.",
+    thumb: {
+      src: "/images/gd/wicked-legends/wicked-legends-thumbnail.jpg",
+      alt: "wicked legends youtube project logo design",
+    },
+    link: "",
+    image: [
+      {
+        src: "/images/gd/wicked-legends/case-study-01.jpg",
+        alt: "logo idea",
+        class: "square",
+      },
+      {
+        src: "/images/gd/wicked-legends/case-study-02.jpg",
+        alt: "logo idea",
+        class: "square",
+      },
+      {
+        src: "/images/gd/wicked-legends/case-study-03.jpg",
+        alt: "logo idea",
+        class: "square",
+      },
+      {
+        src: "/images/gd/wicked-legends/case-study-04.jpg",
+        alt: "logo idea",
+        class: "square",
+      },
+      {
+        src: "/images/gd/wicked-legends/case-study-05.jpg",
+        alt: "logo idea",
+        class: "square",
+      },
+      {
+        src: "/images/gd/wicked-legends/case-study-06.jpg",
+        alt: "logo idea",
+        class: "square",
+      },
+      {
+        src: "/images/gd/wicked-legends/case-study-07.jpg",
+        alt: "logo idea",
+        class: "square",
+      },
+      {
+        src: "/images/gd/wicked-legends/case-study-08.jpg",
+        alt: "logo idea",
+        class: "square",
+      },
+    ],
+  },
 ];
 
 export default projects;
